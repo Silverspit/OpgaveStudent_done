@@ -10,6 +10,7 @@ public class Course {
         this.courseName = courseName;
         this.maxParticipants = maxParticipants;
         this.courseYear = courseYear;
+        // hej
     }
 
     // lav getter og setter
